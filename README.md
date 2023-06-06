@@ -8,4 +8,7 @@
 ### Where do you put data visualizations? Data visualizations are everywhere: on the evening news, embedded in tweets, or on the front page of the newspaper. In a business context, you often find data visualizations in reports, presentations, or on a business dashboard.
 
 
+
+
+
 ![Data Visualization](https://github.com/IC-XC/Data-Visualization-freeCodeCamp/assets/86513555/eb0b7849-f116-4b18-8ddf-5a79bf3f70f7)
