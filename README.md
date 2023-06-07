@@ -1,4 +1,4 @@
-📖# Data-Visualization-freeCodeCamp
+# 📖 Data-Visualization-freeCodeCamp
 ### Visualizing data using charts, graphs, and maps is one of the most impactful ways to communicate complex data. 
 
 ### A data visualization is a graphical representation of data or information—for example, taking raw numbers from a spreadsheet and transforming that into a bar or line chart. Using data visualizations helps you to easily understand and analyze trends and outcomes within your data.
